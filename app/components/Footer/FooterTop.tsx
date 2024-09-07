@@ -11,7 +11,7 @@ const FooterTop = () => {
         <p className="text-lg">
           If you are ready to Apply for any type of visa,
           <br />
-          Submit your application by clicking "Apply Now Button".
+          Submit your application by clicking the button below".
         </p>
         <div className="block py-2 text-white hover:bg-gray-200">
           <a
